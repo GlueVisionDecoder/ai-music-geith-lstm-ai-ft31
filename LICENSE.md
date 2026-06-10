@@ -1,4 +1,4 @@
-# 
+# Professionnel AI Music Generator with LSTM modèles. Avec analyse des sentiments et optimisation de modèles — optimisé pour des performances maximales.
 
 
 
